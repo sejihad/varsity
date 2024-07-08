@@ -1,0 +1,11 @@
+.section-cls {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.article-cls {
+  background-color: rgb(7, 44, 44);
+  color: white;
+  padding: 1rem;
+}
