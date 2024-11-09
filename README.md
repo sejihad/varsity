@@ -1,8 +1,19 @@
-# React + Vite
+# University Information Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React.js application designed to provide detailed information about a university. It includes information on courses, departments, faculty, campus facilities, and more, offering a centralized platform for users to learn about the university.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Home Page** with a brief introduction and highlights about the university.
+- **Departments and Courses** section with details on various academic programs.
+- **Faculty Profiles** to showcase information about professors and lecturers.
+- **Campus Facilities** section providing insights into libraries, labs, sports complexes, and other amenities.
+- **Contact Information** for prospective students and visitors.
+
+## Technologies Used
+
+- **React.js** - For building the user interface and managing component structure.
+- **CSS** - For styling and layout adjustments across pages.
+
+
+![Homepage Screenshot](src/assets/homepage.png)
